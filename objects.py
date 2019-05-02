@@ -95,10 +95,9 @@ class ManagementSystem():
 		print ("Number of each order: ", iOrders)
 
 
-	def serviceOrders(self): 
+	#def serviceOrders(self): 
 
 		 
-
 if __name__ == "__main__":
 	# tailor1 = Tailor(False, 20)
 	# measurements1 = Measurements(50,50,50,50,50,50,50)
